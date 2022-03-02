@@ -4,9 +4,11 @@
 
 # Sobre o projeto:
 
-(AQUI VAI FICAR O LINK DO HEROKU)
+https://cadastro-veiculos.herokuapp.com/swagger-ui.html
 
 Um serviço de cadastro de veículos onde dados básicos são fornecidos pelo usuário.
+
+Obs: Na parte do consumo de API externa , eu notei que o consumo da api(https://github.com/giovanigenerali/fipe-json) iria ser muito complexo , pois iria ter que fazer varias chamadas , varios filtros e isso iria me demandar mais tempo pra conseguir fazer. Porém , no lugar dela , pra exemplificar , fiz consumo da api(https://viacep.com.br/), um webservice gratuito e de alto desempenho para consultar Códigos de Endereçamento Postal (CEP) do Brasil.
 
 # Tecnologias utilizadas
 ## Back end
