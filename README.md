@@ -8,23 +8,6 @@
 
 Um serviço de cadastro de veículos onde dados básicos são fornecidos pelo usuário.
 
-
-Clonar o Projeto
-
-Instalar o PostgresSQL: - https://www.postgresql.org/
-    - Durante a instalação use como senha '1234'
-
-Caso ja tenha instalado o PostgresSQL:
-    - Ajustar configurações de banco de dados no aplication.properties 
-        - troque usuário e senha do arquivo para poder conectar
-
-Crie um novo database no banco de dados PostgresSQL:
-    DB: cadastro-veiculos-db
-
-Abra a aplicação em sua IDE de preferencia, importe as dependencias e inicie a aplicação.
-
-Após iniciar acesse: http://localhost:8080/swagger-ui.html
-
 # Tecnologias utilizadas
 ## Back end
 - Java
